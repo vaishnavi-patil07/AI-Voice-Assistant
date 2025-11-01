@@ -91,7 +91,7 @@ voiceAssistant/
 ## 👩‍💻 Author
 
 **Vaishnavi Jaywant Patil**
-B.E. (CSE), Arvind Gavali College of Engineering, Satara
+2nd Year B.E. (CSE), Keystone School of Engineering, Pune
 📧 Email: [vaishnavipatil0719@gmail.com](mailto:vaishnavipatil0719@gmail.com)
 📞 Contact: 9699228565
 🌐 GitHub: [vaishnavi-patil07]
